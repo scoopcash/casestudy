@@ -2,7 +2,7 @@
 # Uniswap
 ![image](https://user-images.githubusercontent.com/115046768/194445633-1e51a742-8742-44b6-9b97-91e013d9e85e.png)
 
-## what is it
+## What is it
 Uniswap is a cryptocurrency exchange which uses a decentralized network protocol. Uniswap is also the name of the company that initially built the Uniswap protocol. The protocol facilitates automated transactions between cryptocurrency tokens on the Ethereum blockchain through the use of smart contracts.
 Contributors: Jerami Rinaldi & Andres Hurtado
 
